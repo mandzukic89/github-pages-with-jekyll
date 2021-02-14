@@ -3,7 +3,6 @@ layout: post
 title:  "Homepage"
 ---
 
-
 # Ragdoll Cats
 
 The ragdoll is a cat breed with color point coat and blue eyes. they are large and muscular longhair cats with soft silky coat.
