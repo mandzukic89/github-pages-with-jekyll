@@ -1,5 +1,5 @@
 ---
-title:  "Homepage"
+title: "Homepage"
 date: 2021-02-14
 
 ---
